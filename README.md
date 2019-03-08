@@ -1,4 +1,6 @@
-# vuecli3-h5
+# vue组件DEMO
+
+技术栈：vue2.0+vue-cli3+vue-router+axios+webpack4
 
 ## Project setup
 ```
